@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+}
+
+header .btn {
+  display: inline-block;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+header .btn.warning {
+  background-color: yellow;
+}
+header .btn.warning:hover {
+  background-color: rgb(154, 154, 1);
+}
+header .btn.info {
+  background-color: rgb(77, 166, 255);
+}
+header .btn.info:hover {
+  background-color: rgb(44, 121, 198);
+}
+
+a {
+  color: #A2D2FF;
+}
+
+button {
+  background-color: #A2D2FF;
+}
+
+p {
+  color: #FFAFCC;
+}
+
+h2 {
+  color: #FFAFCC;
+}
+
+#btn-outside-header {
+  margin-top: 40px;
+}
+
+#actions {
+  margin-top: 20px;
+}
+
+.box-1 {
+  width: 200px;
+  height: 200px;
+  background-color: #A2D2FF;
+  border: 20px solid greenyellow;
+  border-radius: 20px;
+  font-size: 40px;
+}
+
+.box-2 {
+  width: 300px;
+  height: 300px;
+  background-color: #FFAFCC;
+  border: 5px solid greenyellow;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
